@@ -8,4 +8,6 @@ export function CreatePlayer()
     {
 
     });
+
+    return sq;
 }
